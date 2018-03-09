@@ -14,7 +14,7 @@
 
 
 ## To run the application: 
-- checkout code from Git repository (TODO: make it public): ---
+- checkout code from Git repository: https://github.com/boser87/rest-games.git
 - mvn clean install from parent pom folder
 - install Apache Karaf 4 
 - run Apache Karaf from bin folder: ${KARAF_HOME}/bin/karaf.bat
